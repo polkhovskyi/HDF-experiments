@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HDF-experiments.v12.suo
+/HDF-experiments.sln.DotSettings.user
+/HDF-experiments/obj
+/ConsoleApplication1/bin/Debug
+/ConsoleApplication1/obj/Debug
+/HDF-experiments/bin/Debug
+/HDF-experiments/bin/x64/Debug
+/HDF-experiments/bin/x86/Debug

@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDF-experiments", "HDF-experiments\HDF-experiments.csproj", "{F1E45D39-4697-4CC8-A2EB-0527F4967379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication1\ConsoleApplication.csproj", "{F999D0D5-2C69-47B4-9E2E-BF0C4BD06E3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{F999D0D5-2C69-47B4-9E2E-BF0C4BD06E3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
